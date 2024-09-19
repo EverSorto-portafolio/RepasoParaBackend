@@ -1,0 +1,14 @@
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\bin\Debug\net8.0\RetrolaimentacionC#.exe
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\bin\Debug\net8.0\RetrolaimentacionC#.deps.json
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\bin\Debug\net8.0\RetrolaimentacionC#.runtimeconfig.json
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\bin\Debug\net8.0\RetrolaimentacionC#.dll
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\bin\Debug\net8.0\RetrolaimentacionC#.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\RetrolaimentacionC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\RetrolaimentacionC#.AssemblyInfoInputs.cache
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\RetrolaimentacionC#.AssemblyInfo.cs
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\RetrolaimentacionC#.csproj.CoreCompileInputs.cache
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\RetrolaimentacionC#.dll
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\refint\RetrolaimentacionC#.dll
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\RetrolaimentacionC#.pdb
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\RetrolaimentacionC#.genruntimeconfig.cache
+C:\Users\everc\OneDrive\Documentos\progra2\RetrolaimentacionC#\RetrolaimentacionC#\obj\Debug\net8.0\ref\RetrolaimentacionC#.dll
